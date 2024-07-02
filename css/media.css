@@ -1,0 +1,320 @@
+@media(min-width:768px) and (max-width:991px){
+    .logo{
+        width: 100%;
+    }
+    .logo-img{
+        width: 30%;
+    }
+    .menu li{
+        float: none;
+        padding: 10px 20px;
+        display: none;
+    }
+    .menu li a{
+        font-size: 15px;
+        color: #212121;
+        text-transform: capitalize;
+        font-weight: 400;
+        display: inline-block;
+        margin: 7px 30px 0 0;}
+    .menu{
+        float: none;
+    }
+    .get-button{
+        float: none;
+        display: inline-block;
+        margin-top: 20px;
+       
+    }
+    #menu-btn{
+        display: block;
+        position: absolute;
+        right: 20px;
+        top: 40px;
+    }
+    #menu-btn {
+        font-size: 20px;}
+
+
+    /* bannerstart */
+
+    .banner-content {
+        float: left;
+        width: 50%;
+        margin: 50px 0 60px;}
+   .banner-head {
+            font-size: 40px;
+            color: #3A3A3A;
+            text-transform: capitalize;
+            font-weight: 800;
+            width: 100%;
+            line-height: 46px;
+            margin-bottom: 18px;}     
+    .banner-para {
+                font-size: 15px;
+                color: #767676;
+                line-height: 25px;
+                width: 100%;
+                margin-bottom: 35px;}
+     .banner-right {
+        padding: 170px 0 0;
+     }
+     .startjourney-bt{
+        margin-bottom: 35px;
+     }
+
+        /* bannerend */
+    
+        .ourcompany {
+            padding: 80px 0;
+        }
+        .brand-list li{
+            width: 50%;
+            margin-bottom: 30px;
+        }
+
+
+        .our-services {
+           padding: 80px 0;}
+           .ourbox {
+            width: 50%;
+            float: left;
+            /* background-color: #fff; */
+            padding: 0 0 30px 0;
+        }
+
+        .business{
+            padding: 80px 0;}
+        
+        
+        .business-head {
+            font-size: 30px;
+            color: #3A3A3A;
+            text-transform: capitalize;
+            font-weight: bold;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+        .earning {
+            width: 350px;
+            height: 160px;
+            /* border-radius: 10px; */
+            background-color: #fff;
+            border-radius: 5px;
+            text-align: left;
+            padding: 20px;
+            position: absolute;
+            top: 50%;
+            left: 55%;
+            transform: translate(-50%, -50%);}
+            .business-para {
+                font-size: 15px;
+                color: #767676;
+                line-height: 25px;
+                margin-bottom: 50px;
+                width: 80%;
+            }
+            .blog{
+                padding: 80px 0;
+            }
+            .blog-head {
+                font-size: 25px;}
+                .blog-para {
+                    font-size: 15px;
+                    color: #767676;
+                    width: 100%;
+                    margin: 0 auto;
+                    line-height: 25px;}
+
+
+                    .blog-box {
+                        width: 50%;
+                        float: left;
+                        padding: 0 15px;
+                        margin-bottom: 20px;}
+                    .blog-box:nth-child(3){
+                        float: none;
+                    }
+                        footer{
+                            padding: 80px 0;
+                        }
+                        .footer-first {
+                            width: 100%;
+                            float: left;
+                            margin-bottom: 20px;}
+                            .services {
+                                width: 100%;
+                                float: left;
+                                margin-bottom: 20px;
+                            }        
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:320px) and (max-width:767px){
+    .logo{
+        width: 100%;
+    }
+    .logo-img{
+        width: 60%;
+    }
+    .menu li{
+        float: none;
+        padding: 10px 20px;
+        display: none;
+    }
+    .menu li a{
+        font-size: 15px;
+        color: #212121;
+        text-transform: capitalize;
+        font-weight: 400;
+        display: inline-block;
+        margin: 7px 30px 0 0;}
+    .menu{
+        float: none;
+    }
+    .get-button{
+        float: none;
+        display: inline-block;
+        margin-top: 20px;
+       
+    }
+    #menu-btn{
+        display: block;
+        position: absolute;
+        right: 0;
+        top: 40px;
+    }
+    .banner-img{
+        width: 100%;
+    }
+    .banner-right{
+        width: 100%;
+    }
+    .banner-content {
+        float: left;
+        width: 100%;
+        margin: 530px 0 60px;
+    }
+    .banner-content .banner-head{
+        font-size: 35px;
+        line-height: 46px;
+        width: 100%;
+    }
+    .banner-para {
+        font-size: 15px;
+        color: #767676;
+        line-height: 25px;
+        width: 100%;
+        margin-bottom: 40px;}
+    .startjourney-bt{
+        margin-bottom: 45px;
+    }
+
+    /* ourcompanystart */
+    .ourcompany {
+        padding: 50px 0;
+    }
+    .company-img {
+        width: 80%;}
+        .brand-list li {
+            float: left;
+            width: 100%;
+            text-align: center;
+            margin-bottom: 40px;}
+
+
+
+
+     /* ourcompanyend */
+     .our-services {
+        padding: 50px 0;}
+     .ourservice-head {
+        font-size: 25px;}
+        .ourbox {
+            width: 100%;
+            float: left;
+            /* background-color: #fff; */
+            padding: 0 0px 30px 0;
+        }
+
+     .business {
+        padding: 50px 0;
+    }
+    .business-para {
+        font-size: 15px;
+        color: #767676;
+        line-height: 25px;
+        margin-bottom: 40px;
+        width: 100%;}
+
+        .business-left {
+            width: 100%;
+            float: left;
+            margin-bottom: 250px;
+            margin-top: 0;
+        }
+        .business-right {
+            width: 100%;
+        }
+        .business-head {
+            font-size: 25px;
+            color: #3A3A3A;
+            text-transform: capitalize;
+            font-weight: bold;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+
+       
+        .blog {
+            padding: 50px 0;
+        }
+        .blog-head {
+            font-size: 25px;}
+        .blog-para {
+            font-size: 15px;
+            color: #767676;
+            width: 100%;
+            margin: 0 auto;
+            line-height: 25px;}
+
+            .blog-box {
+                width: 100%;
+                float: left;
+                /* padding: 0 15px; */
+                margin-bottom: 20px;
+            }
+
+            footer {
+                padding: 50px 0;
+            }
+            .footer-first {
+                width: 100%;
+                float: left;
+                margin-bottom: 20px;
+            }
+            .footer-img {
+                width: 50%;}
+            .footer-para {
+                    font-size: 15px;
+                    color: #767676;
+                    line-height: 25px;
+                    margin-bottom: 40px;
+                    width: 100%;}
+            .services {
+                        width: 100%;
+                        float: left;}
+    
+    
+}
